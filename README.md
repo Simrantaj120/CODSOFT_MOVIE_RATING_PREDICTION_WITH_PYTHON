@@ -1,14 +1,4 @@
 # CODSOFT_MOVIE_RATING_PREDICTION_WITH_PYTHON
----------------------------
-Table of Contents
------------------------------------
-Project Overview
-Business Understanding
-Objectives
-Data Understanding
-Exploratory Data Analysis (EDA)
-Modeling
-Conclusion
 -----------------------------------
 Project Overview
 ---------------------------------------
